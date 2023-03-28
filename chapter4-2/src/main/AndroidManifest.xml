@@ -18,6 +18,7 @@
         </activity>
         <activity android:name="com.example.chapter4_2.PinActivity" />
         <activity android:name="com.example.chapter4_2.IdentityInputActivity" />
+        <activity android:name="com.example.chapter4_2.VerifyOtpActivity" />
     </application>
 
 </manifest>
